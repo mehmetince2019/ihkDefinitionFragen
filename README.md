@@ -7,7 +7,7 @@ program icin database olarak bir websitesi kullanildi .
 
 once bu sitede php / mysql kullanilarak bir kac sayfa olusturuldu 
 ve bir database olustutuldu. 
-phphtml.zip dosyasinda web sitesinde kullanilan tum dosyalar var.  
+php codlari.zip dosyasinda web sitesinde kullanilan tum dosyalar var.  
 ( once bir database ve kullanici olusturulmasi gerekir. 
 sonra her dosya icindeki db adi ve passwd güncellenecek !) 
 
